@@ -44,4 +44,5 @@ We are making this website using:
 | 1   | Version 1| added basic html.|
 | 2   | Version 1.1  | edited html code  |
 | 3   | Version 1.2  |  fixed alignment issues.  |
-| 3   | Version 2 | added css  |
+| 4   | Version 2 | added css  |
+| 5   | Version 2.1  |  changed some minute details.  |
