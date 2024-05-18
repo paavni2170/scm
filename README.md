@@ -47,3 +47,4 @@ We are making this website using:
 | 4   | Version 2 | added css  |
 | 5   | Version 2.1  |  changed some minute details.  |
 | 6   | Version 3 | added js.  |
+| 7   | Version 3.1 | updated js.  |
