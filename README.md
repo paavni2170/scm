@@ -46,3 +46,4 @@ We are making this website using:
 | 3   | Version 1.2  |  fixed alignment issues.  |
 | 4   | Version 2 | added css  |
 | 5   | Version 2.1  |  changed some minute details.  |
+| 6   | Version 3 | added js.  |
