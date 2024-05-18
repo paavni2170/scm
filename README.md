@@ -42,5 +42,6 @@ We are making this website using:
 | Sr NO. | Versions | Added changes  |
 |:-----|:--------:|------:|
 | 1   | Version 1| added basic html.|
-| 2   |    |   |
-| 3   |  |     |
+| 2   | Version 1.1  | edited html code  |
+| 3   | Version 1.2  |  fixed alignment issues.  |
+| 3   | Version 2 | added css  |
